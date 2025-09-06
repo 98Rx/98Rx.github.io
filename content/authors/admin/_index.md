@@ -3,7 +3,7 @@
 title: PHARMACIST / MARKETER
 
 # Name pronunciation (optional)
-name_pronunciation: Saqer Alsaqer
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Saqer
