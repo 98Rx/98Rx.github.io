@@ -121,3 +121,4 @@ interests:
     type: Founder [ The Healer Team ]
 
 ---
+I believe in working with responsibility, honesty, and heart. Communication and connection are my strongest tools, and I value building real relationships that make a difference. My journey in pharmacy, combined with business and marketing, has given me a unique perspective on the Saudi healthcare market. Today, I’m proud to be a Medical Representative at Amarox, where I grow every day while helping others and contributing to meaningful change. What drives me most is the chance to leave a positive impact on the people around me.
