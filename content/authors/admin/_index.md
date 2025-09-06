@@ -45,7 +45,6 @@ work:
       - Manage key accounts, build strong relationships, and increase sales.
       - Monitor market and competitors to find new opportunities.
       - Work with teams to keep products available and improve customer satisfaction.
-      - Location: Jeddah.
   - position: Account Manager
     company_name: Narrative - Strategic Pharma Marketing Agency
     date_start: 2024-10-01
@@ -55,7 +54,6 @@ work:
       - Build strong relationships and meet client expectations.
       - Coordinate with teams for timely, budget-friendly project delivery.
       - Provide regular performance updates to leadership.
-      - Location: Jeddah.
   - position: Online Marketing Manager
     company_name: Octopus KSA Group
     date_start: 2018-07-01
@@ -66,25 +64,24 @@ work:
       - Built and maintained strong client and partner relationships.
       - Collaborated with cross-functional teams to implement innovative business and marketing solutions.
       - Enhanced brand visibility and customer satisfaction.
-      - Locations: Jeddah & Riyadh.
 
 skills:
   - name: Technical Skills
     items:
       - name: Digital Marketing & Project Management
-        percent: 90
+        percent: 95
       - name: Analytical & Problem-Solving
         percent: 85
       - name: Sales & Relationship Management
         percent: 95
       - name: Networking & Leadership
-        percent: 90
+        percent: 95
       - name: Public Speaking & Social Media Management
-        percent: 80
+        percent: 85
       - name: Campaign Optimization, Cross-Functional Collaboration, SEO
         percent: 80
       - name: Technical Proficiency & E-commerce Management
-        percent: 80
+        percent: 90
 
 courses_certifications:
   - name: Sales Forecasting
