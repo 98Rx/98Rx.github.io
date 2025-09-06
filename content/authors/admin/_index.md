@@ -1,7 +1,7 @@
 ---
-title: Saqer Ali Alsaqer Alghamdi
+title: Saqer Alsaqer 
 
-name_pronunciation: Saqer Al-sa-qer
+name_pronunciation: 
 
 first_name: Saqer
 last_name: Alghamdi
@@ -15,9 +15,6 @@ role: Medical Sales Representative
 
 organizations:
   - name: AmaroxKSA
-  - name: Narrative - Strategic Pharma Marketing Agency
-  - name: Octopus KSA Group
-
 profiles:
   - icon: at-symbol
     url: 'mailto:iSqqqr@gmail.com'
@@ -106,5 +103,21 @@ languages:
   - name: French
     percent: 5
 
+interests:
+  - year: 2024
+    name: Google Digital Marketing & E-commerce
+    type: Professional Certificate
+  - year: 2024
+    name: HubSpot Inbound Marketing Certification
+    type: Professional Certificate
+  - year: 2024
+    name: McKinsey Forward Program
+    type: Professional Certificate
+  - year: 2023
+    name: Global Leaders Organization
+    type: Membership
+  - year: 2018
+    name: Founding Pharmacist Volunteering Team
+    type: Founder [ The Healer Team ]
+
 ---
-I believe in working with responsibility, honesty, and heart. Communication and connection are my strongest tools, and I value building real relationships that make a difference. My journey in pharmacy, combined with business and marketing, has given me a unique perspective on the Saudi healthcare market. Today, I’m proud to be a Medical Representative at Amarox, where I grow every day while helping others and contributing to meaningful change. What drives me most is the chance to leave a positive impact on the people around me.
