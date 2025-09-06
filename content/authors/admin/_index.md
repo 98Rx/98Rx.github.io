@@ -7,7 +7,7 @@ name_pronunciation:
 
 # Full name (for SEO)
 first_name: Saqer
-last_name: Alsaqer
+last_name: Al saqer
 
 
 
