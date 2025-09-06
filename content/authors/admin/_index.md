@@ -21,12 +21,9 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: 'http://linkedin.com/in/saqeralsaqer'
-  - icon: website
-    url: 'http://saqer.xyz'
-    label: Website
   - icon: phone
-    url: 'tel:+966509002299'
-    label: +966 50 900 2299
+    url: 'tel:+966559010066'
+    label: +966 55 90 100 66
 
 education:
   - area: Doctor of Pharmacy (PharmD)
