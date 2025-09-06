@@ -41,7 +41,7 @@ sections:
     content:
       title: Skills 
       username: admin
-  - block: Interests & Certifications
+  - block: awards
     content:
       title: Interests & Certifications
       username: admin
