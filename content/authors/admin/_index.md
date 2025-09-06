@@ -1,9 +1,9 @@
 ---
 # Display name
-title: PHARMACIST / MARKETER
+title: Saqer Alsaqer 
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation:  PHARMACIST / MARKETER
 
 # Full name (for SEO)
 first_name: Saqer
