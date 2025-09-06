@@ -117,7 +117,7 @@ awards:
   - title: McKinsey Forward Program
     date: '2024-10-01'
     awarder: McKinsey & Company
-    icon: custom/heart-solid-full
+    icon: custom/MC
     summary: |
       Professional Certificate program focused on business leadership, strategic thinking, and management consulting methodologies.
   - title: Global Leaders Organization
