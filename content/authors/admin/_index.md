@@ -6,15 +6,14 @@ title: PHARMACIST / MARKETER
 name_pronunciation: Saqer Alsaqer
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Saqer
+last_name: Alsaqer
 
-# Pronouns (optional)
-pronouns: she/her
+
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💯🚀🎯
 
 # Is this the primary user of the site?
 superuser: true
