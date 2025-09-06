@@ -96,6 +96,42 @@ languages:
     percent: 100
 
 
+# Interests & Certifications
+#   Add/remove as many items below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Google Digital Marketing & E-commerce
+    date: '2024-12-01'
+    awarder: Google
+    icon: brands/google
+    summary: |
+      Professional Certificate in Digital Marketing and E-commerce, covering comprehensive digital marketing strategies, analytics, and e-commerce fundamentals.
+  - title: HubSpot Inbound Marketing Certification
+    url: https://academy.hubspot.com/courses/inbound-marketing
+    date: '2024-11-01'
+    awarder: HubSpot
+    icon: hubspot
+    summary: |
+      Professional Certificate in Inbound Marketing methodology, covering content creation, social media promotion, lead nurturing, and conversion optimization strategies.
+  - title: McKinsey Forward Program
+    date: '2024-10-01'
+    awarder: McKinsey & Company
+    icon: mckinsey
+    summary: |
+      Professional Certificate program focused on business leadership, strategic thinking, and management consulting methodologies.
+  - title: Global Leaders Organization
+    date: '2023-01-01'
+    awarder: Global Leaders Organization
+    icon: globe
+    summary: |
+      Membership in the Global Leaders Organization, participating in leadership development programs and international networking initiatives.
+  - title: Founding Pharmacist Volunteering Team
+    date: '2018-01-01'
+    awarder: The Healer Team
+    icon: heart
+    summary: |
+      Founder of The Healer Team, a pharmaceutical volunteering initiative focused on community health education and healthcare accessibility programs.
 
 ---
 I believe in working with responsibility, honesty, and heart. Communication and connection are my strongest tools, and I value building real relationships that make a difference. My journey in pharmacy, combined with business and marketing, has given me a unique perspective on the Saudi healthcare market. Today, I’m proud to be a Medical Representative at Amarox, where I grow every day while helping others and contributing to meaningful change. What drives me most is the chance to leave a positive impact on the people around me.
