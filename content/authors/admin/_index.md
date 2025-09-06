@@ -104,32 +104,32 @@ awards:
   - title: Google Digital Marketing & E-commerce
     date: '2024-12-01'
     awarder: Google
-    icon: custom/google-brands-solid-full.svg
+    icon: custom/google-brands-solid-full
     summary: |
       Professional Certificate in Digital Marketing and E-commerce, covering comprehensive digital marketing strategies, analytics, and e-commerce fundamentals.
   - title: HubSpot Inbound Marketing Certification
     url: https://academy.hubspot.com/courses/inbound-marketing
     date: '2024-11-01'
     awarder: HubSpot
-    icon: custom/hubspot-brands-solid-full.svg
+    icon: custom/hubspot-brands-solid-full
     summary: |
       Professional Certificate in Inbound Marketing methodology, covering content creation, social media promotion, lead nurturing, and conversion optimization strategies.
   - title: McKinsey Forward Program
     date: '2024-10-01'
     awarder: McKinsey & Company
-    icon: custom/MC.svg
+    icon: custom/MC
     summary: |
       Professional Certificate program focused on business leadership, strategic thinking, and management consulting methodologies.
   - title: Global Leaders Organization
     date: '2023-01-01'
     awarder: Global Leaders Organization
-    icon: custom/hubspot-brands-solid-full.svg
+    icon: custom/Global-Leaders-Organization
     summary: |
       Membership in the Global Leaders Organization, participating in leadership development programs and international networking initiatives.
   - title: Founding Pharmacist Volunteering Team
     date: '2018-01-01'
     awarder: The Healer Team
-    icon: custom/heart-solid-full.svg
+    icon: custom/heart-solid-full
     summary: |
       Founder of The Healer Team, a pharmaceutical volunteering initiative focused on community health education and healthcare accessibility programs.
 
