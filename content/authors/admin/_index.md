@@ -111,25 +111,25 @@ awards:
     url: https://academy.hubspot.com/courses/inbound-marketing
     date: '2024-11-01'
     awarder: hero/globe-alt
-    icon: hb/globe
+    icon: hero/globe
     summary: |
       Professional Certificate in Inbound Marketing methodology, covering content creation, social media promotion, lead nurturing, and conversion optimization strategies.
   - title: McKinsey Forward Program
     date: '2024-10-01'
     awarder: McKinsey & Company
-    icon: hb/briefcase
+    icon: hero/briefcase
     summary: |
       Professional Certificate program focused on business leadership, strategic thinking, and management consulting methodologies.
   - title: Global Leaders Organization
     date: '2023-01-01'
     awarder: Global Leaders Organization
-    icon: hb/globe
+    icon: hero/globe
     summary: |
       Membership in the Global Leaders Organization, participating in leadership development programs and international networking initiatives.
   - title: Founding Pharmacist Volunteering Team
     date: '2018-01-01'
     awarder: The Healer Team
-    icon: hb/heart
+    icon: hero/heart
     summary: |
       Founder of The Healer Team, a pharmaceutical volunteering initiative focused on community health education and healthcare accessibility programs.
 
